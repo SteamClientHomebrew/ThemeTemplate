@@ -23,4 +23,4 @@ Then ensure your theme template is in your themes folder.
 
 ## Next Steps
 
-https://docs.steambrew.app/developers/themes/getting-started
+https://docs.steambrew.app/themes/

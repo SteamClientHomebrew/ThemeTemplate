@@ -1,12 +1,11 @@
 /**
- * @description This js loads all main steam windows
- * [Steam, Settings, Properties, Popups, Dialogs, ...]
+ * @description This js load in the friends list, chat, and other related areas. 
  * 
  * @note only functions if the user has javascript enabled. 
  */
 
 function initialize() {
-    console.log("Hello World from millennium!")
+    console.log("Hello World from friends list!")
 }
 
 initialize()
